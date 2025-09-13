@@ -5,8 +5,6 @@ Welcome to **Get Calley App**, a Flutter-based mobile application designed with 
 ---
 
 
-## 📽️ App Demo
-https://github.com/amollokhande1234/Get-Calley-App/assets/12345678/abcd1234efgh5678
 
 ## 📽️ App Demo
 
