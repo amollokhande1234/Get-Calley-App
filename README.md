@@ -3,13 +3,10 @@
 Welcome to **Get Calley App**, a Flutter-based mobile application designed with a modern, scalable architecture. This app leverages **Firebase**, **Provider State Management**, and a clean UI system to ensure smooth user experience.  
 
 ---
+
 ## 📽️ App Demo
 
-Check out the demo video:
-
-[▶️ Watch Demo](assets/outputs/demo.mp4)
-
-
+[![Watch the video](https://drive.google.com/file/d/1AtutkbRNkqHhdTkKr4pQ-Jm-dG-3FebP/view?usp=sharing)]
 
 ## 🚀 Getting Started
 
